@@ -1,6 +1,6 @@
 def car():
-    f = open("car.txt","r")
-    text = f.read().split()
+    file_content = open("car.txt","r")
+    text = file_content.read().split()
     FileNew = open("carnew.txt","w")
     print(text)
     list=[]
