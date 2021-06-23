@@ -1,4 +1,0 @@
-BMW:3
-Audi:4
-Ford:4
-Benz:4
